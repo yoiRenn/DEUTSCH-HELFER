@@ -1,0 +1,85 @@
+type,gender,word,cn,forms,example
+n,das,Kennenlernen,结识,,“Kennenlernen” ist das Thema in Einheit 2.
+pron,,ihr,你们、她的、他们的,,Ich bin Anna. Und wie heißt ihr denn?
+v,,arbeiten,工作、学习、劳动,,Wo arbeitest du denn?
+adv,,hier,这里,,Was machst du hier?
+prep,,in,在……里面; 到……里面; 在……时候,,Ich arbeite hier in China.
+adv,,bitte,请,,Wie bitte?
+v,,sprechen,说话、谈话,er spricht,Sprechen Sie Deutsch?
+adv,,zu,太、非常,,Der Lehrer spricht zu schnell.
+adj,,schnell,快的、迅速的,,Sie geht schnell.
+adj,,langsam,慢的、缓慢的,,Bitte sprechen Sie langsam.
+n,das,Deutsch,德语,,Wir lernen Deutsch.
+pron,,Ihr,您的,,Wie ist Ihr Name bitte?
+n,das,England,英国,,Mary Johnson kommt aus England.
+adj,,laut,大声的,,Sprechen Sie bitte laut und langsam!
+n,die,Entschuldigung,原谅,Pl. Entschuldigungen,Entschuldigung!
+n,der,Vorname,名,Pl. Vornamen,“Hongliang” ist mein Vorname.
+n,der,Familienname,姓,Pl. Familiennamen,“Wang” ist mein Familienname.
+v,,entschuldigen,原谅,,Entschuldigen Sie bitte.
+v,,buchstabieren,拼出字母,,Wie buchstabiert man “Wang”?
+pron,,man,人们,,Wie buchstabiert man das Wort?
+adj,,schön,行; 好的; 美丽的、美好的,,Die Kette ist schön.
+adv,,jetzt,现在、目前,,Jetzt öffnen Sie bitte die Bücher auf Seite 4.
+v,,öffnen,打开,,Jetzt öffnen Sie bitte die Bücher auf Seite 4.
+prep,,auf,到……上面; 以……方式,,Der Text ist auf Seite 4.
+n,die,Seite,页、边,Pl. Seiten,Der Text ist auf Seite 4.
+v,,lesen,阅读、读、朗读,,Bitte lesen Sie.
+adv,,zuerst,先、首先,,Zuerst liest die Lehrerin Text 1.
+n,der,Text,课文、文章、文本,Pl. Texte,Dann lesen wir Text 2.
+adj,,eins,一,,Einheit 1 ist Phonetik.
+adj,,leise,轻声的,,Wang Hongliang liest zu leise.
+v,,machen,做、制作、干、从事,,Karin macht alles.
+pron,,wir,我们,,Wir sind aus China.
+n,die,Übung,练习,Pl. Übungen,Sie machen Übungen.
+v,,fragen,问、打听,,Der Lehrer fragt Wang Hongliang.
+v,,antworten,回答、答复、回信,er antwortet,Er antwortet schnell.
+v,,schließen,合、关、闭、锁,,Die Studenten schließen die Bücher.
+v,,hören,听、听到,,Wir hören zuerst Text 2.
+adj,,zwei,二,,Dann machen wir Übung 2.
+n,die,Mensa,学生食堂,Pl. Mensen,Das ist die Mensa.
+n,der,Platz,座位、地方、场所,Pl. Plätze,“Ist der Platz hier frei?”
+adj,,frei,(座位)空着; 自由的、空闲的,,“Ja; bitte.”
+adv,,ja,是,,Ja; ich komme aus China.
+n,das,Japan,日本,,Kommst du aus Japan?
+adv,,nein,不、不是,,Nein; ich komme aus China.
+v,,studieren,(在大学)学习、研究,,Was studieren Sie?
+adv,,noch,还、此外还,,Wie heißt das noch mal auf Deutsch?
+n,die,Chemie,化学,,Ich studiere Chemie.
+v,,lernen,学习、学,,Lernst du Deutsch?
+n,die,Informatik,计算机科学与技术,,Wang Hongliang studiert Informatik.
+pron,,du,你,,Was studierst du?
+n,die,Elektrotechnik,电子学,,Ich studiere Elektrotechnik.
+adv,,wo,哪里、何处,,Wo wohnt ihr?
+v,,wohnen,居住,,Wir wohnen im Studentenwohnheim.
+n,das,Studentenwohnheim,学生宿舍,Pl. Studentenwohnheime,Wohnst du auch im Studentenwohnheim?
+adj,,drei,三,,Wir wohnen in Haus 3.
+adv,,übrigens,此外、再说、顺带说,,Übrigens; mein Name ist Liu Ling.
+pron,,er,他,,Er heißt Thomas.
+v,,schreiben,写、写作、写信,,Wie schreibt man das?
+n,der,Student,大学生(男),Pl. Studenten,Sind Sie Student?
+n,die,Studentin,大学生(女),Pl. Studentinnen,Sind Sie Student?
+v,,spielen,玩、比赛,,Was spielen wir jetzt?
+n,der,Fußball,足球,Pl. Fußbälle,Die Kinder spielen Fußball.
+adj,,groß,大的; 高的,,China ist groß.
+conj,,oder,或者、还是(两者选一),,Heißt du Brigitte oder Birgit?
+pron,,alles,所有、全部,,Ich mache alles.
+n,der,Dialog,对话,Pl. Dialoge,Lesen Sie die Dialoge laut vor.
+n,der,Satz,句、句子,Pl. Sätze,Ich spreche vier Sätze Deutsch.
+n,die,Musik,音乐,,Die Musik ist schön; nicht?
+n,der,Brief,信、书信、信札、函件,Pl. Briefe,“Was ist denn das?”
+n,der,Freund,朋友(男),Pl. Freunde,Thomas ist mein Freund.
+n,die,Freundin,朋友(女),Pl. Freundinnen,Thomas ist mein Freund.
+n,das,Italien,意大利(国名),,Paolo kommt aus Italien.
+n,das,Hobby,业余爱好,Pl. Hobbys,Meine Hobbys sind Lesen und Fußballspielen.
+adv,,gerade,恰好、刚好,,Ich lerne gerade Deutsch.
+n,die,Wirtschaftswissenschaft,经济学,Pl. Wirtschaftswissenschaften,Ich studiere Wirtschaftswissenschaft.
+n,die,Universität,综合性大学,Pl. Universitäten,Beate studiert an der Warschauer Universität.
+n,das,Polen,波兰(国名),,Sie wohnt in Polen.
+v,,suchen,寻找,,Sie sucht Brieffreunde aus aller Welt.
+adv,,gern,乐意、喜欢,,Ich höre gern Musik.
+v,,chatten,聊天,,Chattest du gern?
+n,das,Englisch,英文,,Wir sprechen gut Englisch.
+n,die,Welt,世界、世间,Pl. Welten,Die Welt ist groß.
+n,das,München,慕尼黑(德国地名),,Beate und Jutta kommen aus München.
+n,das,Chinesisch,中文,,Sie lernen gerade Chinesisch.

@@ -1,0 +1,100 @@
+type,gender,word,cn,forms,example
+n,das,Leben,生活、生命,,Das Leben hier in Hangzhou ist schön.
+prep,,an,在……时候; 在/到……旁,,Studiert sie noch an der Universität?
+n,der,Vormittag,上午,Pl. Vormittage,Am Vormittag arbeitet man.
+n,der,Mittag,中午,Pl. Mittage,Es ist Mittag.
+n,der,Nachmittag,下午,Pl. Nachmittage,Am Nachmittag lernen die Kinder nicht.
+v,,frühstücken,吃早餐,,Die Studentin frühstückt gut.
+v,,auf/stehen,起床; 起立; 站起来,,Stehen Sie bitte auf!
+prep,,zu,在……时候,,Ich esse in der Mensa zu Mittag.
+v,,essen,吃,er isst,Martin isst gern Eis.
+n,der,Sport,体育运动,,Am Morgen treiben wir Sport.
+v,,treiben,从事、进行,,Treibst du gern Sport?
+n,die,Vorlesung,(大)课、讲座,Pl. Vorlesungen,Wo ist die Vorlesung?
+v,,besuchen,访问; 探望; 上学; 参观,,Wir besuchen am Vormittag Vorlesungen.
+prep,,nach,(目标)向……; 到……去(时间); 在……之后,,Nach der Vorlesung fährt Martin nach Hause.
+v,,fahren,搭、乘、坐(车); 行驶,er fährt,Ich fahre gern Rad.
+v,,trinken,喝、饮,,Trinken Sie Kaffee oder Tee?
+n,das,Bett,床,Pl. Betten,Das ist mein Bett.
+v,,gehen,步行、走、前往,,Er geht langsam.
+adv,,immer,始终、经常、总是,,Ich habe immer am Vormittag Unterricht.
+v,,haben,有、得到,er hat,Hast du am Nachmittag auch Unterricht?
+n,die,Pause,休息、停顿,Pl. Pausen,Jetzt machen wir gerade Pause.
+adv,,täglich,每天的,,Ich spreche täglich Deutsch.
+prep,,von,(时间)从……起; (所属关系的),,Von acht bis Viertel vor zwölf habe ich Unterricht.
+adj,,acht,八,,Um acht Uhr gehen wir zum Unterricht.
+n,das,Viertel,四分之一、一刻钟,,Es ist Viertel nach sechs.
+prep,,vor,在……之前,,Ich stehe um Viertel vor sechs auf.
+adj,,zwölf,十二,,Um zwölf Uhr essen wir zu Mittag.
+prep,,um,在……点钟,,Um acht Uhr haben wir Deutschunterricht.
+adv,,schon,就、已经,,Es ist schon Nacht.
+adv,,so,这样; 如此,,Stehst du so früh auf?
+adj,,früh,早的; 早上,,Es ist nicht mehr früh.
+adv,,wann,何时,,Wann stehst du denn auf?
+v,,laufen,跑、跑步,er läuft,Ich laufe schnell.
+adj,,aktiv,积极的、主动的,,Die Studenten sind im Unterricht aktiv.
+adv,,nicht,不、没有,,Ich esse oft nicht zu Mittag.
+adv,,nur,只、仅,,Die Lehrerin spricht im Unterricht nur Deutsch.
+prep,,bei,在……时候; 在……情况下,,Er ist nicht nur beim Sport aktiv.
+pron,,dein,你的,,Dein Deutsch ist jetzt viel besser.
+adv,,sehr,很、非常,,Ich lerne auch sehr viel.
+pron,,viel,许多、大量,,Thomas trinkt sehr viel Kaffee.
+v,,verstehen,理解、懂得,,Verstehen Sie Frau Beckmann?
+adv,,wohin,向哪里、去何处,,Wohin fährst du jetzt?
+conj,,aber,但是、可是,,Ich trinke viel Tee; aber sie trinkt viel Kaffee.
+adv,,erst,刚刚、才,,Es ist erst sieben Uhr.
+adj,,halb,一半(的),,Ich frühstücke um halb acht.
+adv,,wie viel,多少,,Um wie viel Uhr isst du dann zu Mittag?
+n,die,Uhr,钟点; 表、钟,Pl. Uhren,Ich habe zwei Uhren.
+adv,,meistens,通常、一般、大多数情况下,,Ich frühstücke meistens sehr gut.
+adv,,mal,(表示请求语气)啊,,Sag mal; hast du täglich Unterricht?
+adv,,mal,吧; 一次,,Lesen Sie mal den Text laut!
+conj,,mal,(曾经或以后); 乘,,Drei mal drei ist neun.
+adv,,heute,今天、当今,,Hast du heute Abend Zeit?
+n,die,Zeit,时间、时刻,Pl. Zeiten,Wann hast du Zeit?
+v,,geben,给予,er gibt,Thomas gibt heute Abend eine Party.
+n,die,Party,聚会,Pl. Partys,Wo gibt er die Party?
+v,,kennen,认识、了解,,Kennst du ihn nicht?
+adj,,neu,新来的、新的,,Er ist neu hier.
+adv,,leider,可惜、遗憾,,Ich habe leider keine Zeit.
+pron,,kein,没有、无,,Wir haben heute Nachmittag keinen Unterricht.
+n,der,Donnerstag,星期四,Pl. Donnerstage,Schreiben wir am Donnerstag eine Prüfung?
+n,die,Prüfung,考试、检验,Pl. Prüfungen,Wann haben wir eine Prüfung?
+n,der,Freitag,星期五,Pl. Freitage,Am Freitag haben wir eine Prüfung.
+adv,,zusammen,一起、共计,,Machen wir die Hausaufgaben zusammen?
+n,die,Hausaufgabe,家庭作业,Pl. Hausaufgaben,Ich mache zuerst meine Hausaufgaben.
+adv,,nie,从未、永不,,Du hast nie Zeit für deine Freunde.
+prep,,für,为了、对于,,Du hast auch nie Zeit für dein Leben.
+v,,schlafen,睡觉,er schläft,Schläfst du eigentlich noch?
+adv,,eigentlich,究竟,,Wie spät ist es eigentlich?
+adj,,spät,迟、晚,,Es ist schon spät.
+v,,beginnen,开始,,Der Unterricht beginnt.
+adv,,warum,为什么,,Warum lernen Sie Deutsch?
+n,der,Montag,星期一,Pl. Montage,Was machst du am Montag?
+n,die,Telefonnummer,电话号码,Pl. Telefonnummern,Wie ist deine Telefonnummer?
+n,die,Stunde,小时、课时,Pl. Stunden,Wie viele Stunden schläfst du täglich?
+n,der,Tofu,豆腐,,Kennen Sie Tofu?
+adj,,hundert,百,,Die Universität ist sechs hundert Jahre alt.
+adj,,tausend,千,,Zwei tausend Deutsche studieren in China.
+n,das,Auto,小汽车,Pl. Autos,Das sind Autos aus Deutschland.
+adv,,endlich,总算、终于,,Endlich hast du mal Zeit für mich.
+n,die,E-Mail,电子邮件,Pl. E-Mails,Ich lese und schreibe täglich E-Mails.
+adj,,interessant,有趣的、令人感兴趣的,,Das ist aber interessant.
+adv,,oft,经常、常常,,Schreibt ihr auch oft Mails?
+v,,sehen,看、看见,er sieht,Was siehst du denn gerade?
+n,der,Zug,火车,Pl. Züge,Der Zug fährt sehr schnell.
+v,,ab/fahren,开出,er fährt ab,Wann fährt der Zug von Berlin ab?
+n,die,Zahl,数字,Pl. Zahlen,Heute lernen wir Zahlen; eins; zwei; drei ...
+n,das,Jahr,年、(年)岁,Pl. Jahre,Wie viele Tage hat ein Jahr?
+adj,,alt,老的、旧的,,Ich bin 20 Jahre alt.
+n,der,Dienstag,星期二,Pl. Dienstage,Morgen ist Dienstag.
+n,der,Mittwoch,星期三,Pl. Mittwoche,Aber am Mittwoch habe ich Zeit.
+n,die,Million,百万,Pl. Millionen,Tausend mal tausend ist eine Million.
+n,die,Hochschule,高等学校、大学,Pl. Hochschulen,Wie viele Hochschulen gibt es jetzt in China?
+n,die,Kunst,艺术、技巧,Pl. Künste,Musik ist (eine) Kunst.
+n,die,Fachhochschule,应用技术大学,Pl. Fachhochschulen,Wie heißt Fachhochschule auf Chinesisch?
+adv,,insgesamt,总共、合计,,Unsere Universität hat insgesamt 30 000 Studenten.
+n,der,Ausländer,外国人(男),Pl. Ausländer,Da Shan; ein Ausländer; spricht sehr gut Chinesisch.
+n,die,Ausländerin,外国人(女),Pl. Ausländerinnen,Da Shan; ein Ausländer; spricht sehr gut Chinesisch.
+adv,,etwa,大约、将近,,Heute stehe ich etwa um halb sechs auf.
+n,das,Ausland,外国,,Mein Freund studiert im Ausland.

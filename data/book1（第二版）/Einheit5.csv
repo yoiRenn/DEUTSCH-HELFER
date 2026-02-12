@@ -1,0 +1,120 @@
+type,gender,word,cn,forms,example
+n,der,Käse,奶酪,,Käse ist aus Milch.
+n,das,Bier,啤酒,Pl. Biere,Trinken Sie Bier?
+n,die,Wurst,香肠,Pl. Würste,Isst du gerne Würste?
+n,der,Reis,米饭,,Wir essen gern Reis.
+n,die,Kartoffel,土豆、马铃薯,Pl. Kartoffeln,Li Ming isst nicht gern Kartoffeln.
+n,die,Milch,奶、牛奶,,Trinkst du täglich Milch?
+n,das,Brot,面包,Pl. Brote,Das Brot ist alt.
+n,das,Brötchen,小面包,Pl. Brötchen,Ich esse lieber Brötchen.
+n,das,Fleisch,肉,,Essen Sie bitte nicht zu viel Fleisch.
+n,der,Fisch,鱼,Pl. Fische,Rolli hat einen Fisch und isst ihn aber nicht.
+n,das,Ei,鸡蛋,Pl. Eier,Woher kommt das Ei?
+n,das,Restaurant,餐厅、餐馆,Pl. Restaurants,Das ist ein China-Restaurant.
+prep,,vor,在……前面,,Li Xiaoming steht vor dem Restaurant.
+n,die,Speisekarte,菜单,Pl. Speisekarten,Er macht die Speisekarte auf.
+v,,hinein/schauen,向里看、向里瞧,,Schauen wir mal in die Speisekarte hinein.
+n,das,Schnitzel,肉排、煎猪排,Pl. Schnitzel,Ich esse ein Schnitzel.
+n,,Pommes Frites,油炸土豆条,Pl. Pommes Frites,Pommes Frites sind nicht so gesund.
+n,der,Schweinebraten,煎猪肉,,Er isst einen Schweinebraten.
+n,das,Klößchen,小丸子,Pl. Klößchen,Es gibt zu Mittag Klößchen.
+n,das,Rindersteak,牛排,Pl. Rindersteaks,Sie isst ein Rindersteak.
+n,,Bratkartoffeln,油煎土豆,Pl. Bratkartoffeln,Xiaoming bestellt Bratkartoffeln.
+n,der,Salat,色拉、生菜,Pl. Salate,Es gibt Obstsalat; Kartoffelsalat usw.
+n,die,Zwiebel,洋葱,Pl. Zwiebeln,Zwiebeln sind gesund.
+n,die,Suppe,汤,Pl. Suppen,Man isst eine Suppe und trinkt ein Bier.
+n,die,Vorspeise,头盘、冷盘,Pl. Vorspeisen,Ich möchte eine Suppe als Vorspeise.
+v,,bestellen,点菜; 订购,,Li Xiaoming bestellt Schnitzel mit Kartoffeln.
+n,der,Kellner,(餐厅)服务员(男),Pl. Kellner,Der Kellner ist sehr nett.
+n,die,Kellnerin,女服务员,Pl. Kellnerinnen,Der Kellner ist sehr nett.
+n,der,Saft,汁、果汁、菜汁,Pl. Säfte,Li bestellt einen Apfelsaft noch.
+adv,,einfach,干脆、简直,,Trink einfach ein Bier!
+adj,,einfach,根本、简单,,Trink einfach ein Bier!
+v,,wünschen,想要; 祝愿,,Was wünschen Sie sonst noch?
+adv,,sonst,此外、另外,,Was wünschen Sie sonst noch?
+n,der,Appetit,食欲、胃口,,Guten Appetit!
+adv,,Prost,干杯,,Prost!
+adv,,gleichfalls,同样地(用于应答对方的祝贺语),,Gleichfalls!
+v,,schmecken,有滋味、有(好)味道,,Mir schmeckt das Rindersteak auch sehr gut.
+adj,,lecker,好吃的、美味的; 可口的,,Das Schnitzel mit Kartoffeln ist lecker.
+adv,,später,以后、后来,,Bis später!
+v,,probieren,尝味、尝试、试穿,,Probier mal!
+adv,,öfter,有时、常常,,Ich komme öfter hierher.
+v,,hierherkommen,到这儿来,,Ich komme öfter hierher.
+n,die,Atmosphäre,气氛、环境; 大气(层),,Die Atmosphäre in dem Restaurant ist sehr gut.
+v,,gefallen,使……喜欢,er gefällt,Das Restaurant hier gefällt mir sehr.
+adv,,nämlich,因为、即、也就是,,Er kommt heute nicht mehr; er ist nämlich krank.
+n,der,Nachtisch,饭后甜点,,Als Nachtisch bestelle ich ein Eis.
+adv,,ruhig,尽管、只管、放心地,,Bestell dir ruhig eins!
+adj,,ruhig,安静的、清静的,,Hier ist es ziemlich ruhig.
+v,,zahlen,付钱,,Zahlen; bitte!
+adj,,getrennt,分开的,,(Zahlen Sie) getrennt oder zusammen?
+v,,machen,总计; 干、做,,Das macht zusammen 28;50 Euro.
+n,der,Euro,欧元,,Hier sind 30 Euro. Stimmt so.
+v,,danken,感谢,,Ich danke dir für das Essen.
+n,das,Getränk,饮料,Pl. Getränke,Haben wir noch Getränke zu Hause?
+n,das,Hauptgericht,正餐、主食,Pl. Hauptgerichte,Nach der Vorspeise kommt das Hauptgericht.
+n,die,Sprite,雪碧,,Wir haben Sprite; Fanta und Tee. Was möchtet ihr denn?
+n,die,Fanta,芬达,,Wir haben Sprite; Fanta und Tee. Was möchtet ihr denn?
+n,der,Tee,茶、茶叶,,Wir haben Sprite; Fanta und Tee. Was möchtet ihr denn?
+n,der,Wein,葡萄酒,Pl. Weine,Einen Wein bitte!
+n,der,Pudding,布丁(甜点心),Pl. Puddings,Der Pudding hier schmeckt prima.
+adv,,sofort,立即、马上,,Kommt sofort.
+n,der,Cent,欧分,,Wie viel Cent sind ein Euro?
+n,die,Blume,花、花朵,Pl. Blumen,Die Blumen hier sind sehr schön.
+n,die,Kamera,摄影机、照相机,Pl. Kameras,Die Kamera ist aus Japan.
+v,,helfen,帮助,er hilft,Wem hilft unser Lehrer?
+v,,gehören,属于,,Wem gehört die Schultasche.
+n,die,Flasche,瓶、罐,Pl. Flaschen,Möchten Sie eine oder zwei Flaschen Wein?
+n,der,Spiegel,镜子,Pl. Spiegel,Du bist im Spiegel groß.
+n,die,Tasse,(有柄的)瓷杯子,Pl. Tassen,Ich möchte einen Kuchen und dazu eine Tasse Kaffee.
+n,der,Kühlschrank,冰箱,Pl. Kühlschränke,Der Kühlschrank steht in der Küche.
+n,der,Kuchen,糕点、糕饼,Pl. Kuchen,Der Kuchen schmeckt mir sehr.
+n,der,Schlüssel,钥匙; 答案,Pl. Schlüssel,Ich finde meinen Schlüssel nicht mehr.
+n,der,Stern,星星; 明星,Pl. Sterne,Die Sterne hängen am Himmel.
+n,der,Himmel,天空,,Der Himmel ist blau.
+adj,,kalt,冷的,,Das Essen ist kalt.
+v,,zu/machen,关闭、封闭,,Mach bitte die Tür zu!
+v,,kaufen,买、购买,,Was möchten Sie denn kaufen?
+n,der,Arzt,医生、大夫,Pl. Ärzte,Wohin gehst du denn? Zum Arzt.
+v,,vergessen,忘掉、忘记,er vergisst,Bitte vergessen Sie das nicht.
+n,die,Orange,橙子,Pl. Orangen,Ich möchte zwei Kilo Orangen.
+n,der,Cappuccino,卡布奇诺咖啡,Pl. Cappuccinos,Ich hätte gern einen Cappuccino.
+n,die,Zitrone,柠檬,Pl. Zitronen,Ich hätte gern einen Tee mit Zitrone.
+v,,empfehlen,推荐,er empfiehlt,Was empfehlen Sie uns?
+v,,kosten,花费、值,,Wie viel kostet das?
+adj,,vielfältig,多样的,,Das Essen in China ist vielfältig.
+adj,,verschieden,不一样的、另一种的; 不同的,,Es gibt verschiedene regionale Küchen mit unterschiedlichen Spezialitäten.
+adj,,regional,地方性的、区域性的,,Es gibt verschiedene regionale Küchen mit unterschiedlichen Spezialitäten.
+n,die,Küche,菜肴、饭菜; 烹调术; 厨房,Pl. Küchen,Die Küche ist groß und modern.
+adj,,unterschiedlich,有区别的、不同的,,Die Spezialitäten sind unterschiedlich.
+n,die,Spezialität,特色菜、特产,Pl. Spezialitäten,Jautse (Jiaozi) ist eine Spezialität in China.
+n,der,Norden,北方,,Im Norden isst man oft Gerichte mit frischem Fisch.
+adj,,frisch,新鲜的,,Ist der Saft frisch?
+n,das,Bayern,(德国)巴伐利亚(州),,In München und Bayern ist die Weißwurst sehr beliebt.
+adj,,weiß,白色的,,In München und Bayern ist die Weißwurst sehr beliebt.
+adj,,beliebt,受欢迎的,,In München und Bayern ist die Weißwurst sehr beliebt.
+conj,,während,然而,,...während man in Schwaben Käsespätzle und Maultaschen gerne isst.
+n,die,Käsespätzle,奶酪面疙瘩,Pl. Käsespätzle,...während man in Schwaben Käsespätzle und Maultaschen gerne isst.
+n,die,Maultasche,汤饺,Pl. Maultaschen,...während man in Schwaben Käsespätzle und Maultaschen gerne isst.
+n,die,Rostbratwurst,烤香肠,Pl. Rostbratwürste,Thüringen ist für seine Rostbratwurst bekannt.
+adj,,bekannt,熟悉的、有名的,,Thüringen ist für seine Rostbratwurst bekannt.
+adj,,berühmt,著名的、出名的,,Der Arzt ist berühmt.
+n,die,Sorte,种类、品种,Pl. Sorten,Hier bekommt man viele Sorten von Brot.
+adv,,fast,几乎,,Ich arbeite hier fast drei Jahre.
+adj,,international,国际的,,In Deutschland gibt es viele internationale Küchen.
+adj,,italienisch,意大利的,,Cappuccino ist eigentlich italienisch.
+adj,,griechisch,希腊的,,Wie klingt die griechische Sprache?
+adj,,spanisch,西班牙的,,Das spanische Essen schmeckt mir gut.
+n,der,Schnellimbiss,小吃店,Pl. Schnellimbisse,Entschuldigung; gibt es hier eine Schnellimbiss?
+n,die,Snackbar,快餐店,Pl. Snackbars,Ich möchte in einer Snackbar essen.
+n,der,Ketchup,蕃茄酱,Pl. Ketchups,Viele essen gern Pommes Frites mit Ketchup.
+n,die,Pizza,比萨饼,Pl. Pizzas,Ist die Pizza eigentlich chinesisch oder italienisch?
+n,das,Frühstück,早餐、早饭、早点,Pl. Frühstücke,Zum Frühstück trinken manche Leute nur einen Kaffee oder Tee.
+n,das,Müsli,混合麦片(内加水果丁、核桃仁、葡萄干等),,Manche essen zum Frühstück Müsli oder Obst.
+n,die,Marmelade,果酱,Pl. Marmeladen,Es gibt unterschiedliche Marmeladen.
+n,der,Honig,蜂蜜,Pl. Honige,Man isst Brot mit Marmelade oder Honig.
+n,die,Kantine,(企业、军营等的)公共食堂,Pl. Kantinen,Zu Mittag essen viele in der Kantine oder in der Cafeteria.
+n,die,Cafeteria,自助餐馆(或咖啡馆),Pl. Cafeterias,Zu Mittag essen viele in der Kantine oder in der Cafeteria.
+adv,,recht,相当、等于,,Aber das Essen dort ist recht teuer.
+adj,,teuer,贵的、昂贵的,,Aber das Essen dort ist recht teuer.

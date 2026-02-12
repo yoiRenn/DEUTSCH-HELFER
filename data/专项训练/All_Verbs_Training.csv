@@ -1,0 +1,108 @@
+﻿id,type,gender,word,cn,forms,example,source_file
+1,v,,heißen <N>,名叫,,Wie heißen Sie?,Einheit1.csv
+2,v,,sein <N>,是,er ist,Ich bin aus China.,Einheit1.csv
+3,v,,kommen,来,,Woher kommen Sie?,Einheit1.csv
+4,v,,gehen,走,er geht,Mir geht es gut.,Einheit1.csv
+5,v,,danken <D>,感谢,,Danke; auch gut.,Einheit1.csv
+6,v,,sagen <A>,说,,Was sagen Sie?,Einheit1.csv
+7,v,,begrüßen <A>,欢迎、向……问候,,Frau Lu begrüßt die Studenten.,Einheit1.csv
+8,v,,verabschieden <A>,告别(sich),,Dann verabschieden sie sich.,Einheit1.csv
+9,v,,arbeiten,工作,,Wo arbeitest du denn?,Einheit2.csv
+10,v,,sprechen <mit+D>,说话(和某人),er spricht,Sprechen Sie Deutsch?,Einheit2.csv
+11,v,,entschuldigen <A>,原谅,,Entschuldigen Sie bitte.,Einheit2.csv
+12,v,,buchstabieren <A>,拼出字母,,Wie buchstabiert man “Wang”?,Einheit2.csv
+13,v,,öffnen <A>,打开,,Jetzt öffnen Sie bitte die Bücher auf Seite 4.,Einheit2.csv
+14,v,,lesen <A>,阅读,,Bitte lesen Sie.,Einheit2.csv
+15,v,,machen <A>,做、干,,Karin macht alles.,Einheit2.csv
+16,v,,fragen <A>,问,,Der Lehrer fragt Wang Hongliang.,Einheit2.csv
+17,v,,antworten <D>,回答(某人),er antwortet,Er antwortet ihm.,Einheit2.csv
+18,v,,schließen <A>,合、关,,Die Studenten schließen die Bücher.,Einheit2.csv
+19,v,,hören <A>,听,,Wir hören Text 2.,Einheit2.csv
+20,v,,studieren <A>,学习(大学),,Was studieren Sie?,Einheit2.csv
+21,v,,lernen <A>,学习,,Lernst du Deutsch?,Einheit2.csv
+22,v,,wohnen,居住,,Wir wohnen im Studentenwohnheim.,Einheit2.csv
+23,v,,schreiben <DA>,写(给某人某物),,Wie schreibt man das?,Einheit2.csv
+24,v,,spielen <A>,玩,,Was spielen wir jetzt?,Einheit2.csv
+25,v,,suchen <A>,寻找,,Sie sucht Brieffreunde.,Einheit2.csv
+26,v,,chatten <mit+D>,聊天,,Chattest du gern?,Einheit2.csv
+27,v,,frühstücken,吃早餐,,Die Studentin frühstückt gut.,Einheit3.csv
+28,v,,auf/stehen,起床,,Stehen Sie bitte auf!,Einheit3.csv
+29,v,,essen <A>,吃,er isst,Martin isst gern Eis.,Einheit3.csv
+30,v,,treiben <A>,从事(运动),,Treibst du gern Sport?,Einheit3.csv
+31,v,,besuchen <A>,访问、参观,,Wir besuchen Vorlesungen.,Einheit3.csv
+32,v,,fahren <A>,驾驶(车),er fährt,Ich fahre gern Rad.,Einheit3.csv
+33,v,,trinken <A>,喝,,Trinken Sie Kaffee?,Einheit3.csv
+34,v,,haben <A>,有,er hat,Hast du Unterricht?,Einheit3.csv
+35,v,,laufen,跑,er läuft,Ich laufe schnell.,Einheit3.csv
+36,v,,verstehen <A>,理解,,Verstehen Sie Frau Beckmann?,Einheit3.csv
+37,v,,geben <DA>,给予(某人某物),er gibt,Thomas gibt ihm eine Party.,Einheit3.csv
+38,v,,kennen <A>,认识,,Kennst du ihn nicht?,Einheit3.csv
+39,v,,schlafen,睡觉,er schläft,Schläfst du eigentlich noch?,Einheit3.csv
+40,v,,beginnen,开始,,Der Unterricht beginnt.,Einheit3.csv
+41,v,,sehen <A>,看见,er sieht,Was siehst du denn gerade?,Einheit3.csv
+42,v,,ab/fahren,出发,,Wann fährt der Zug ab?,Einheit3.csv
+43,v,,klingeln,按铃,,Es klingelt.,Einheit4.csv
+44,v,,vor/haben <A>,打算,,Hast du etwas vor?,Einheit4.csv
+45,v,,planen <A>,计划,,Wir planen eine Feier.,Einheit4.csv
+46,v,,finden <A>,觉得、找到,,Das finde ich gut!,Einheit4.csv
+47,v,,meinen <A>,认为,,Was meinst du dazu?,Einheit4.csv
+48,v,,ein/laden <A>,邀请,er lädt ein,Wir laden dich ein.,Einheit4.csv
+49,v,,ein/kaufen <A>,采购,,Ich gehe gern einkaufen.,Einheit4.csv
+50,v,,bestellen <A>,订购,,Ich bestelle eine Torte.,Einheit4.csv
+51,v,,vor/schlagen <DA>,建议(某人某事),er schlägt vor,Was schlägst du vor?,Einheit4.csv
+52,v,,kochen <A>,煮,,Was kochst du da?,Einheit4.csv
+53,v,,mit/machen <A>,参与,,Machen Sie mit!,Einheit4.csv
+54,v,,aus/sehen,看上去,,Deine Oma sieht fit aus.,Einheit4.csv
+55,v,,rauchen <A>,抽烟,,Sie raucht nicht.,Einheit4.csv
+56,v,,an/rufen <A>,打电话(给某人),,Rufen Sie mich an!,Einheit4.csv
+57,v,,mit/kommen,一起来,,Kommst du mit?,Einheit4.csv
+58,v,,an/nehmen <A>,接受,er nimmt an,Nimmst du den Vorschlag an?,Einheit4.csv
+59,v,,ab/lehnen <A>,拒绝,,Lehnst du ihn ab?,Einheit4.csv
+60,v,,leid/tun <D>,使遗憾(某人),,Es tut mir Leid.,Einheit4.csv
+61,v,,ab/holen <A>,接(某人),,Bobby holt mich ab.,Einheit4.csv
+62,v,,reisen,旅行,,Er reist viel.,Einheit4.csv
+63,v,,hinein/schauen,向里看,,Schauen wir hinein.,Einheit5.csv
+64,v,,wünschen <DA>,想要(点餐),,Was wünschen Sie?,Einheit5.csv
+65,v,,schmecken <D>,有滋味(对某人),,Mir schmeckt das gut.,Einheit5.csv
+66,v,,probieren <A>,尝试,,Probier mal!,Einheit5.csv
+67,v,,hierher/kommen,来这儿,,Ich komme hierher.,Einheit5.csv
+68,v,,gefallen <D>,使喜欢(某人),er gefällt,Das gefällt mir.,Einheit5.csv
+69,v,,zahlen <A>,支付,,Zahlen bitte!,Einheit5.csv
+70,v,,helfen <D>,帮助,er hilft,Wem hilft er?,Einheit5.csv
+71,v,,gehören <D>,属于,,Wem gehört das?,Einheit5.csv
+72,v,,zu/machen <A>,关闭,,Mach die Tür zu!,Einheit5.csv
+73,v,,kaufen <A>,买,,Was kaufen Sie?,Einheit5.csv
+74,v,,vergessen <A>,忘记,er vergisst,Vergessen Sie das nicht.,Einheit5.csv
+75,v,,empfehlen <DA>,推荐(某人某事),er empfiehlt,Was empfehlen Sie uns?,Einheit5.csv
+76,v,,kosten <A>,花费(钱),,Wie viel kostet das?,Einheit5.csv
+77,v,,mieten <A>,租,,Er mietet eine Wohnung.,Einheit6.csv
+78,v,,besichtigen <A>,参观,,Er besichtigt eine Wohnung.,Einheit6.csv
+79,v,,zeigen <DA>,展示(给某人某物),,Sie zeigt ihm die Wohnung.,Einheit6.csv
+80,v,,aus/ziehen,搬出、抽出,,Er zieht aus.,Einheit6.csv
+81,v,,nehmen <A>,取、拿,er nimmt,Ich nehme die Wohnung.,Einheit6.csv
+82,v,,ein/halten <A>,遵守,er hält ein,Er muss die Ordnung einhalten.,Einheit6.csv
+83,v,,halten,养、拿、停着,,Das Auto hält.,Einheit6.csv
+84,v,,um/ziehen,搬家,,Er zieht um.,Einheit6.csv
+85,v,,betrachten <A>,注视,,Er betrachtet das Zimmer.,Einheit6.csv
+86,v,,hängen <an+D>,挂在(静止),,Die Uhr hängt an der Wand.,Einheit6.csv
+87,v,,stehen <auf+D>,站立(静止),,Das Rad steht vor dem Haus.,Einheit6.csv
+88,v,,stecken <in+D>,插在(静止),,Die Blumen stecken in der Vase.,Einheit6.csv
+89,v,,stellen <A>,竖放(动作),,Er stellt den Laptop hin.,Einheit6.csv
+90,v,,legen <A>,平放(动作),,Er legt die Zeitung hin.,Einheit6.csv
+91,v,,surfen,冲浪,,Er surft im Internet.,Einheit6.csv
+92,v,,sitzen <auf+D>,坐(静止),,Du sitzt auf dem Stuhl.,Einheit6.csv
+93,v,,tippen <A>,打字,,Sie tippt einen Text.,Einheit6.csv
+94,v,,warten <auf+A>,等待(某人/事),,Er wartet auf den Bus.,Einheit6.csv
+95,v,,liegen <auf+D>,躺、平放(静止),,Er liegt im Bett.,Einheit6.csv
+96,v,,parken,停车,,Kann man da parken?,Einheit6.csv
+97,v,,grüßen <A>,问候,,Grüß dich.,Einheit7.csv
+98,v,,wollen <A>,想要,,Was willst du?,Einheit7.csv
+99,v,,schenken <DA>,赠送(某人某物),,Was schenkst du ihr?,Einheit7.csv
+100,v,,können <A>,能、会,,Was kann ich?,Einheit7.csv
+101,v,,wissen <A>,知道,er weiß,Das weiß ich nicht.,Einheit7.csv
+102,v,,tragen <A>,穿戴,er trägt,Er trägt eine Brille.,Einheit7.csv
+103,v,,hin/gehen,去那边,,Wo gehen Sie hin?,Einheit7.csv
+104,v,,gucken,瞧,,Guck mal.,Einheit7.csv
+105,v,,nach/sehen,查看,er sieht nach,Sehen Sie mal nach!,Einheit7.csv
+106,v,,gratulieren <D>,祝贺(某人),,Ich gratuliere Ihnen.,Einheit7.csv
+107,v,,aus/packen <A>,拆开,,Er packt das Geschenk aus.,Einheit7.csv

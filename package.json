@@ -1,0 +1,28 @@
+{
+  "name": "zju-german-helper",
+  "productName": "Deutsche Helfer",
+  "version": "3.0.0",
+  "description": "基于@CC98梦屿优化的智能德语背词助手，完善了回收站、错题本系统，新升级弹窗，新升级动词搭配",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "keywords": [
+    "german",
+    "vocabulary"
+  ],
+  "author": "ÖßRen",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.oessren.germanhelper",
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    }
+  }
+}

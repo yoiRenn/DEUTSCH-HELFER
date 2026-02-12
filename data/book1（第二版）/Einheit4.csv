@@ -1,0 +1,109 @@
+type,gender,word,cn,forms,example
+n,die,Familie,家庭、家人,Pl. Familien,Meine Familie hat vier Mitglieder.
+n,das,Mitglied,成员,Pl. Mitglieder,Meine Familie hat vier Mitglieder.
+n,,Eltern,父母亲、双亲,Pl. Eltern,Das sind unsere Eltern.
+n,der,Vater,父亲、爸爸,Pl. Väter,Mein Vater heißt Jonas.
+n,die,Mutter,母亲、妈妈,Pl. Mütter,Meine Mutter heißt Lena.
+n,der,Onkel,叔叔、舅舅,Pl. Onkel,Mein Onkel und meine Tante wohnen nicht hier.
+n,die,Tante,姑妈、姨妈,Pl. Tanten,Mein Onkel und meine Tante wohnen nicht hier.
+n,der,Sohn,儿子,Pl. Söhne,Ich habe einen Sohn und eine Tochter.
+n,die,Tochter,女儿,Pl. Töchter,Ich habe einen Sohn und eine Tochter.
+n,der,Bruder,兄弟、哥哥、弟弟,Pl. Brüder,Ich habe einen Bruder und eine Schwester.
+n,die,Schwester,姐妹、姐姐、妹妹,Pl. Schwestern,Ich habe einen Bruder und eine Schwester.
+n,die,Schwiegertochter,儿媳、媳妇,Pl. Schwiegertöchter,Das ist meine Schwiegertochter.
+n,,Geschwister,兄弟姐妹,Pl. Geschwister,Ich habe keine Geschwister; ich bin allein.
+n,die,Generation,世代、代,Pl. Generationen,Hier sind drei Generationen.
+n,das,Enkelkind,(外)孙子/女,Pl. Enkelkinder,Ich bin euer Enkelkind.
+n,die,Oma,祖母、奶奶、外婆,Pl. Omas,Ihr seid meine Oma; mein Opa oder meine Großeltern.
+n,der,Opa,祖父、爷爷、外公,Pl. Opas,Ihr seid meine Oma; mein Opa oder meine Großeltern.
+n,,Großeltern,祖父母,Pl. Großeltern,Ihr seid meine Oma; mein Opa oder meine Großeltern.
+n,der,Geburtstag,生日,Pl. Geburtstage,Wann hast du Geburtstag?
+n,das,Telefon,电话,Pl. Telefone,Das Telefon klingelt.
+n,das,Gespräch,谈话、交谈、会话,Pl. Gespräche,Ich bin dein Gesprächspartner.
+v,,klingeln,按铃、铃响,,Es klingelt.
+adv,,bald,不久,,Er kommt bald.
+n,der,Schatz,宝贝、亲爱的,Pl. Schätze,Komm; mein Schatz.
+pron,,etwas,某事、某物; 些事、一些东西; 一点儿、一些,,Hast du für den Kindertag etwas vor?
+v,,vor/haben,打算、意图、计划,,Hast du für den Kindertag etwas vor?
+v,,planen,计划、安排,,Wir planen eine Feier für sie.
+n,die,Feier,庆祝活动、庆典,Pl. Feiern,Wir planen eine Feier für sie.
+v,,finden,觉得、认为; 找到、发现,,Das finde ich gut!
+adj,,lieb,(令人)亲切的; 亲爱的、友善的,,Das ist aber lieb!
+n,der,Moment,片刻、瞬息,Pl. Momente,Bitte einen Moment!
+n,der,Samstag,星期六、周六,Pl. Samstage,Samstag heißt auch Sonnabend.
+v,,meinen,认为、观点、看法,,Machen wir eine Pause? Was meinst du dazu?
+pron,,nichts,一点儿没有、什么也没有,,Da habe ich nichts vor.
+v,,ein/laden,邀请,er lädt ein,Wir laden andere Verwandte auch ein.
+pron,,andere,其他的,,Wir laden andere Verwandte auch ein.
+n,der,Verwandte,亲戚(男),Pl. Verwandte,Wir laden andere Verwandte auch ein.
+n,die,Verwandte,亲戚(女),Pl. Verwandte,Wir laden andere Verwandte auch ein.
+v,,ein/kaufen,购物; 买进,,Ich gehe gern einkaufen.
+v,,bestellen,订购、预定,,Ich bestelle gleich eine Torte.
+adv,,gleich,马上,,Ich bestelle gleich eine Torte.
+n,die,Torte,圆形蛋糕,Pl. Torten,Ich bestelle gleich eine Torte.
+v,,vor/schlagen,建议、提议,er schlägt vor,Was schlägst du noch vor?
+v,,kochen,做菜饭; 煮、烧、烹调,,Was kochst du da?
+n,das,Geburtstagskind,寿星,Pl. Geburtstagskinder,Meine Oma ist heute das Geburtstagskind.
+v,,mit/machen,一起干、参与做,,Machen Sie mit!
+n,die,Idee,注意、想法、点子,Pl. Ideen,Das ist eine gute Idee!
+adv,,genau,对的、是的; 精确的,,Meine Uhr geht ganz genau.
+adv,,ganz,蛮、挺、很、甚; 相当; 完好的、完整的,,Deine Uhr ist ganz schön.
+adv,,bestimmt,一定、肯定地,,Das hier ist bestimmt deine Oma.
+adj,,richtig,正确的,,Das ist richtig.
+v,,aus/sehen,看上去、显得,er sieht aus,Deine Oma sieht immer so fit aus.
+adj,,fit,精力充沛的、状态良好的,,Deine Oma sieht immer so fit aus.
+adj,,gesund,健康地,,Sie lebt sehr gesund.
+v,,rauchen,抽烟、吸烟,,Sie raucht nicht und trinkt auch keinen Alkohol.
+n,der,Alkohol,酒精、酒; 含酒精的饮料,,Sie raucht nicht und trinkt auch keinen Alkohol.
+adj,,wirklich,真的、真实的、现实的,,Trinken Sie wirklich nie Alkohol?
+adv,,doch,对否实之事表示肯定,,Lernst du nicht Deutsch? Doch.
+adv,,manchmal,有时,,Ich besuche manchmal meine Oma.
+adv,,selten,难得、很少、罕见; 稀有,,Sie trinkt selten Alkohol.
+adv,,außerdem,除此之外、此外,,Außerdem fährt sie sogar oft Fahrrad.
+n,der,Ingenieur,工程师(男),Pl. Ingenieure,Mein Onkel ist Ingenieur und meine Tante Sekretärin.
+n,die,Ingenieurin,工程师(女),Pl. Ingenieurinnen,Mein Onkel ist Ingenieur und meine Tante Sekretärin.
+n,der,Sekretär,秘书(男),Pl. Sekretäre,Mein Onkel ist Ingenieur und meine Tante Sekretärin.
+n,die,Sekretärin,秘书(女),Pl. Sekretärinnen,Mein Onkel ist Ingenieur und meine Tante Sekretärin.
+pron,,beide,两个、两人,,Sie leben beide in Österreich.
+n,das,Österreich,奥地利(国家),,Sie leben beide in Österreich.
+adj,,nett,友好的、和蔼的,,Es ist sehr nett von Ihnen.
+n,der,Gefährte,伴侣、同伴(男),Pl. Gefährten,Ich bin noch nicht verheiratet; habe aber einen Lebensgefährte.
+n,die,Gefährtin,伴侣、同伴(女),Pl. Gefährtinnen,Ich bin noch nicht verheiratet; habe aber einen Lebensgefährte.
+adj,,verheiratet,已婚的、已结婚的,,Ich bin noch nicht verheiratet.
+v,,an/rufen,打电话,,Rufen Sie mich bitte an!
+n,das,Handy,手机、移动电话,Pl. Handys,Jeder Student hat ein Handy.
+n,die,Polizei,警察局; 警方人员,,Die Polizei ist dort.
+adv,,dort,那里、那儿,,Die Polizei ist dort.
+n,der,Beruf,职业,Pl. Berufe,Was sind Sie von Beruf?
+v,,mit/kommen,一起来、一同去,,Kommst du mit?
+adv,,lieber,宁可、宁愿、更喜欢,,Ich trinke lieber Tee.
+n,der,Vorschlag,建议、提议,Pl. Vorschläge,Ich habe einen Vorschlag.
+n,die,Einladung,邀请,Pl. Einladungen,Ich schreibe gerade die Einladungen.
+v,,an/nehmen,接受、接收; 假设,er nimmt an,Nimmst du den Vorschlag an oder lehnst du ihn lieber ab?
+v,,ab/lehnen,拒绝,,Nimmst du den Vorschlag an oder lehnst du ihn lieber ab?
+adj,,abgemacht,一言为定、就这么着,,Abgemacht!
+v,,leid/tun,遗憾、抱歉,,Es tut mir Leid.
+n,die,Verabredung,约会、约定,Pl. Verabredungen,Ich habe schon eine Verabredung.
+n,die,Lust,兴趣、兴致,,Hast du Lust dazu?
+adv,,leider,遗憾、可惜、惋惜,,Es geht leider nicht.
+adj,,prima,好极了、好棒,,Prima!
+n,das,Lied,歌、歌曲,Pl. Lieder,Singen Sie bitte das Lied noch einmal!
+adj,,einmal,一次,,Singen Sie bitte das Lied noch einmal!
+n,das,Tier,动物,Pl. Tiere,Das Tier ist sehr lieb.
+n,der,Hund,狗,Pl. Hunde,Ich habe einen Hund.
+n,die,Form,形式,Pl. Formen,Es gibt viele Familienformen zur Zeit.
+n,der,Urlaub,假期、度假,Pl. Urlaube,Wann machen wir Urlaub?
+v,,ab/holen,接、取,,Bobby holt mich täglich ab.
+adv,,freitags,每星期五,,Er holt freitags die Tochter ab.
+adj,,normal,正常的、平常的,,Ich finde das ganz normal.
+adj,,arbeitslos,失业的,,Sie sind arbeitslos.
+adj,,türkisch,土耳其的,,Das ist eine türkische Frau.
+n,die,Rollenverteilung,角色分配,Pl. Rollenverteilungen,Sie sind mit der Rollenverteilung zufrieden?
+adj,,zufrieden,满意,,Sie sind mit der Rollenverteilung zufrieden?
+conj,,als,作为; 当……时候,,Er arbeitet als Ingenieur.
+adj,,alleinstehend,单身的、独身的,,Er ist Kaufmann; alleinstehend und hat eine feste Stelle.
+n,der,Kaufmann,商务职员、商人,Pl. Kaufleute,Er ist Kaufmann; alleinstehend und hat eine feste Stelle.
+adj,,fest,固定的,,Er ist Kaufmann; alleinstehend und hat eine feste Stelle.
+n,die,Wohnung,套房,Pl. Wohnungen,Das ist meine Wohnung.
+n,die,Stelle,职位、岗位,Pl. Stellen,Er findet keine Stelle.
+v,,reisen,旅行,,Er reist viel.

@@ -1,0 +1,101 @@
+type,gender,word,cn,forms,example
+n,das,Wohnhaus,住宅,Pl. Wohnhäuser,Hier sieht man ein Wohnhaus; ein Einfamilienhaus; ein Doppelhaus und eine WG.
+n,das,Einfamilienhaus,一户住宅,Pl. Einfamilienhäuser,Hier sieht man ein Wohnhaus; ein Einfamilienhaus; ein Doppelhaus und eine WG.
+n,das,Reihenhaus,连排房屋,Pl. Reihenhäuser,Hier sieht man ein Wohnhaus; ein Einfamilienhaus; ein Doppelhaus und eine WG.
+n,die,Wohngemeinschaft,集体住房、合住套房,Pl. Wohngemeinschaften,Hier sieht man ein Wohnhaus; ein Einfamilienhaus; ein Doppelhaus und eine WG.
+n,das,Zimmer,房间,Pl. Zimmer,Die Zimmer sind Wohnzimmer; Schlafzimmer usw.
+n,das,Wohnzimmer,起居室、客厅,Pl. Wohnzimmer,Die Zimmer sind Wohnzimmer; Schlafzimmer usw.
+n,das,Schlafzimmer,卧室、寝室,Pl. Schlafzimmer,Die Zimmer sind Wohnzimmer; Schlafzimmer usw.
+n,das,Bad,浴室,Pl. Bäder,Das Bad ist klein.
+n,der,Balkon,阳台,Pl. Balkone,Der Balkon geht nach Süden.
+n,der,Flur,走廊、过道,Pl. Flure,Die Katze sitzt im Flur.
+n,die,Suche,寻找,Pl. Suchen,Der Informatiker sucht eine Wohnung.
+n,der,Informatiker,电脑工程师,Pl. Informatiker,Der Informatiker sucht eine Wohnung.
+n,die,Firma,公司,Pl. Firmen,Ich arbeite bei Firma Borsch.
+prep,,seit,自……以来,,Seit Wochen sucht er eine Wohnung.
+n,die,Anzeige,广告、告示,Pl. Anzeigen,Lesen Sie die Anzeigen?
+n,der,Vermieter,出租者(男),Pl. Vermieter,Er ist Vermieter.
+n,die,Vermieterin,出租者(女),Pl. Vermieterinnen,Er ist Vermieter.
+adj,,dringend,迫切的,,Er möchte dringend eine Wohnung mieten.
+v,,mieten,租用、租借、租赁,,Er möchte eine Wohnung mieten.
+v,,besichtigen,参观,,Er besichtigt eine Mietwohnung.
+adv,,weg,不在、离开,,Der Bus ist weg.
+n,das,Problem,问题、困难,Pl. Probleme,Kein Problem!
+adj,,richtig,正确的、对的,,Das ist richtig.
+v,,zeigen,给……看,,Sie zeigt ihm die Wohnung.
+v,,aus/ziehen,脱衣鞋; 搬出,,Der Sohn zieht aus dem Elternhaus aus.
+adv,,nötig,必要的,,Er findet die Arbeit zwar nötig; macht sie aber nicht gleich.
+adj,,renoviert,修缮过的、装修过的,,Das Wohnzimmer ist renoviert und sieht modern und hell aus.
+adv,,ziemlich,颇、比较,,Er trinkt ziemlich viel.
+adv,,zwar,虽然,,Das Essen ist zwar kalt; schmeckt aber gut.
+adj,,modern,时髦的,,Die Möbel sehen modern aus.
+adj,,hell,明亮的,,Die Wohnung ist ganz hell.
+n,das,Fenster,窗户、窗子,Pl. Fenster,Die Fenster gehen alle nach Süden.
+n,der,Süden,南部、南方、南面,,Die Fenster gehen alle nach Süden.
+n,der,Internetanschluss,网络接口,Pl. Internetanschlüsse,In der Mietwohnung gibt es schon Internetanschlüsse.
+prep,,hinter,在……后面; 到……后面去,,Das Kind steht hinter seiner Mutter.
+n,der,Parkplatz,停车场,Pl. Parkplätze,Hinter dem Haus liegt ein Parkplatz.
+adj,,hoch,高的,,Wie hoch ist die Miete?
+n,die,Miete,租金,Pl. Mieten,Wie hoch ist die Miete?
+n,der,Monat,月、月份,Pl. Monate,Ein Jahr hat zwölf Monate.
+adj,,warm,温暖的、热的,,Heute ist es warm.
+v,,nehmen,接受、选购; 乘、坐,er nimmt,Ich nehme die Wohnung.
+n,der,Nachbar,邻居(男),Pl. Nachbarn,Meine Nachbarn sind alle nett.
+n,die,Nachbarin,邻居(女),Pl. Nachbarinnen,Meine Nachbarn sind alle nett.
+v,,ein/halten,遵守,er hält ein,Alle Studenten müssen die Hausordnung einhalten.
+n,das,Haustier,宠物,Pl. Haustiere,In einer Mietwohnung darf man kein Haustier halten.
+v,,halten,养着、饲养; 拿着、停着,er hält,Das Auto hält vor dem Haus.
+n,der,Umzug,搬家,Pl. Umzüge,Umzug kostet Geld.
+v,,um/ziehen,搬家,,Heute zieht er um.
+v,,betrachten,细看、打量,,Er betrachtet das Zimmer genau.
+n,der,Drehstuhl,转椅,Pl. Drehstühle,Der Drehstuhl steht am Schreibtisch.
+prep,,über,在/到……上方,,Über dem Tisch hängt eine Lampe.
+v,,hängen,挂着、悬着、吊着,,Die Wanduhr hängt gegenüber dem Bild.
+prep,,gegenüber,在……对面、面对,,Die Wanduhr hängt gegenüber dem Bild.
+v,,stehen,站立、竖直; 竖放着,,Das Fahrrad steht vor dem Studentenwohnheim.
+n,der,Nachttisch,床头柜,Pl. Nachttische,Der Nachttisch steht an der Wand.
+n,die,Wand,墙壁、墙面,Pl. Wände,Der Nachttisch steht an der Wand.
+n,die,Ecke,角落、隅,Pl. Ecken,Die Katze läuft in die Ecke.
+n,das,Regal,架子、书架,Pl. Regale,Im Regal stehen viele Bücher.
+n,die,Sache,物品、东西; 事情,Pl. Sachen,Er bringt seine Sachen in Ordnung.
+n,die,Ordnung,规则、秩序,Pl. Ordnungen,In Ordnung!
+n,der,Laptop,手提电脑,Pl. Laptops,Viele Studenten haben Laptops.
+v,,stecken,插入、插着,,Die Blumen stecken in der Vase.
+n,der,Stecker,插头,Pl. Stecker,Er steckt den Stecker in die Steckdose.
+n,die,Steckdose,插座,Pl. Steckdosen,Er steckt den Stecker in die Steckdose.
+n,der,Koffer,箱子,Pl. Koffer,Er macht seinen Koffer auf und hängt seine Kleidung in den Schrank.
+n,die,Kleidung,衣服(总称),,Er legt die Kleidung in den Schrank.
+n,der,Schrank,柜、橱,Pl. Schränke,Der Schrank ist zwar alt; aber gut.
+v,,stellen,竖放、直立,,Er stellt den Laptop auf den Tisch.
+n,der,Wecker,闹钟,Pl. Wecker,Dann stellt er den Wecker auf den Tisch.
+v,,legen,平放、摆; 躺、卧,,Er legt die Zeitung auf den Tisch.
+v,,surfen,冲浪运动; 网络漫游,,Er surft gern im Internet.
+v,,sitzen,坐、坐着,,Du sitzt immer vor dem Fernseher.
+n,der,Lärm,噪音、嘈吵声,,Hier darf man keinen Lärm machen.
+v,,tippen,打字,,Sie tippt stundenlang.
+n,die,Rechnung,账单,Pl. Rechnungen,Er liest die Rechnung.
+n,der,Arzt,医生,Pl. Ärzte,Der Arzt sagt; ich soll im Bett liegen.
+n,der,Termin,约期、期限,Pl. Termine,Der Kaufmann hat viele Termine.
+v,,warten,等、等待,,Er soll noch ein Jahr warten.
+adj,,fertig,完成了的、结束了的,,Er soll die Hausaufgaben fertig machen.
+v,,liegen,平放、躺、卧,,Er ist krank und liegt im Bett.
+prep,,unter,在/到……下面/方,,Er stellt die Schuhe unter das Bett.
+n,der,Schuh,鞋、鞋子,Pl. Schuhe,Er stellt die Schuhe unter das Bett.
+adj,,möglich,可能的,,Ist das möglich?
+adv,,da,(在)那儿,,Kann man da parken?
+v,,parken,停放,,Kann man da parken?
+n,der,Doktor,大夫、博士,Pl. Doktoren,Herr Doktor; muss ich noch im Bett liegen?
+adj,,schwach,弱、虚弱,,Ich bin noch schwach.
+n,der,Bus,公共汽车,Pl. Busse,Der Bus hält an der Station.
+n,die,Station,车站,Pl. Stationen,Der Bus hält an der Station.
+adj,,praktisch,实用、事实,,Das ist sehr praktisch.
+n,die,Heizung,暖气,Pl. Heizungen,Die Heizung funktioniert nicht.
+n,das,Möbel,家具,Pl. Möbel,Die Möbel sind teuer.
+adj,,teuer,贵的、昂贵的,,Die Möbel sind teuer.
+n,die,Lage,位置、环境,Pl. Lagen,Wie ist die Lage?
+adv,,links,左边、左面,,Das Auto fährt mal links; mal rechts.
+adv,,rechts,右边、右面,,Das Auto fährt mal links; mal rechts.
+adv,,vorne,前面,,Vorne ist eine Straße.
+n,der,Park,公园,Pl. Parks,Der Park ist sehr groß.
+n,die,Geschirrspülmaschine,洗碗机,Pl. Geschirrspülmaschinen,Die Geschirrspülmaschine arbeitet gut.
+n,die,Dusche,淋浴; 淋浴笼头,Pl. Duschen,Die Dusche ist ja modern.

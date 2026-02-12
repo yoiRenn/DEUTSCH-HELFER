@@ -1,0 +1,106 @@
+type,gender,word,cn,forms,example
+n,die,Waage,天秤,Pl. Waagen,Das ist eine Waage.
+n,die,Mappe,书包、纸夹,Pl. Mappen,Das ist eine Mappe.
+n,der,Kaffee,咖啡,,Trinken Sie Kaffee?
+n,das,Hemd,衬衫,Pl. Hemden,Das Hemd ist aus China.
+n,das,Huhn,鸡,Pl. Hühner,Das Huhn ist groß.
+n,der,Mund,口、嘴,Pl. Münder,Mit dem Mund spricht man.
+n,das,Kino,电影院,Pl. Kinos,Ich gehe ins Kino.
+n,das,Taxi,出租车,Pl. Taxis,Da ist ein Taxi.
+n,der,Ofen,炉子,Pl. Öfen,Der Ofen ist alt.
+n,das,Boot,小船、小艇,Pl. Boote,Das ist ein Boot.
+n,der,Pass,护照,Pl. Pässe,Hier sind zwei Pässe.
+n,das,Obst,水果,,Das Obst ist frisch.
+n,das,Bett,床,Pl. Betten,Das Bett ist breit.
+n,das,Kind,小孩,Pl. Kinder,Das Kind ist glücklich.
+n,die,Kanne,壶,Pl. Kannen,Ist das eine Teekanne?
+n,das,Gas,煤气、气体,Pl. Gase,Gib mehr Gas!
+n,der,Mann,男人,Pl. Männer,Der Mann ist stark.
+n,die,Nase,鼻子,Pl. Nasen,Die Nase ist lang.
+n,der,Fuß,脚、足,Pl. Füße,Ein Mensch hat zwei Füße.
+n,die,Sonne,太阳,Pl. Sonnen,Die Sonne steigt.
+n,die,Fahne,旗、旗帜,Pl. Fahnen,Die Fahne hat drei Farben.
+n,die,Vase,花瓶,Pl. Vasen,Die Vase ist aus Porzellan.
+adj,,gut,好的,,Mein Deutsch ist gut.
+n,der,Tag,白天,Pl. Tage,Guten Tag!
+pron,,ich,我,,Ich heiße Zhao Jianhui.
+v,,heißen,名叫,,Wie heißen Sie?
+pron,,mein,我的,,Mein Name ist Sophie Lehmann.
+n,der,Name,名字,Pl. Namen,Wie ist Ihr Name?
+v,,sein,是,er ist,Ich bin aus China.
+v,,kommen,来,,Woher kommen Sie?
+prep,,aus,从……,,Ich komme aus China.
+n,das,China,中国,,China ist groß.
+conj,,und,和、与,,Sophie und ich lernen Deutsch.
+pron,,Sie,您、您们,,Kommen Sie?
+n,das,Deutschland,德国,,Er kommt aus Deutschland.
+n,das,Eis,冰淇淋,,Das Kind mag Eis.
+n,der,Mais,玉米,,Ich mag Mais.
+n,das,Auge,眼睛,Pl. Augen,Meine Augen sehen gut.
+n,die,Faust,拳头,Pl. Fäuste,Er macht den Urlaub auf eigene Faust.
+n,die,Kauffrau,女商务人员,Pl. Kauffrauen,Sie ist Kauffrau.
+adj,,neun,九,,Es ist neun Uhr.
+n,die,Maus,老鼠、鼠标,Pl. Mäuse,Die Mäuse sind süß.
+n,der,Käse,奶酪,,Der Käse ist aus Deutschland.
+n,die,Hand,手,Pl. Hände,Ein Mensch hat zwei Hände.
+n,der,Hof,庭院、大院子、宫廷,Pl. Höfe,Der Hof ist alt.
+n,der,Hut,帽子、大盖帽,Pl. Hüte,Der Hut ist schön.
+adj,,fünf,五,,Es ist fünf Uhr.
+n,das,Haus,屋子、房子,Pl. Häuser,Mein Haus ist schön.
+n,die,Jacke,夹克衫、上衣、外套,Pl. Jacken,Die Jacke ist modern.
+n,das,Geld,钱、钞票,Pl. Gelder,Geld ist immer gut.
+n,das,Fahrrad,自行车,Pl. Fahrräder,Das ist ein Fahrrad.
+n,das,Wasser,水,,Das Wasser ist klar.
+n,der,Schüler,中小学生(男),Pl. Schüler,Was macht der Schüler?
+n,die,Schülerin,中小学生(女),Pl. Schülerinnen,Was macht der Schüler?
+adj,,zehn,十,,Fünf und fünf gleich zehn.
+n,die,Katze,猫,Pl. Katzen,Die Katze ist süß.
+adj,,sechs,六,,Sechs ist eine Zahl.
+n,das,Licht,光、电灯,Pl. Lichter,Das Licht brennt.
+n,das,Buch,书,Pl. Bücher,Das Buch ist neu.
+n,der,Morgen,早晨,Pl. Morgen,Guten Morgen!
+n,die,Frau,女士,Pl. Frauen,Das ist Frau Lehmann.
+n,der,Herr,先生,Pl. Herren,Das ist Herr Lehmann.
+adv,,wie,如何、怎样,,Wie geht's?
+pron,,es,它,,Wie geht es Ihnen?
+v,,gehen,走,er geht,Mir geht es gut.
+pron,,Ihnen,您(第三格),,Und Ihnen?
+v,,danken,感谢,,Danke; auch gut.
+adv,,auch,也,,Ich lerne auch Deutsch.
+n,der,Tisch,桌子,Pl. Tische,Gibt es hier einen Tisch?
+n,der,Champagner,香槟酒,,Trinkst du Champagner?
+n,der,Stuhl,椅子,Pl. Stühle,Das sind Tische und Stühle.
+n,der,Spiegel,镜子,Pl. Spiegel,Der Spiegel ist modern.
+n,der,Apfel,苹果,Pl. Äpfel,Hier sind viele Äpfel.
+n,die,Quelle,泉、源泉、出处,Pl. Quellen,Wo ist die Quelle?
+n,die,Zeitung,报纸,Pl. Zeitungen,Hier sind Zeitungen.
+adv,,hallo,喂、你好,,Hallo; Matthias!
+pron,,dir,你(第三格),,Wie geht's dir?
+v,,sagen,说,,Was sagen Sie?
+adv,,mal,次、一次,,Sag mal; hast du etwas Zeit?
+pron,,wer,谁,,Wer kommt aus China?
+adv,,denn,究竟,,Wer ist denn das?
+pron,,das,这,,Das ist Herr Zhao.
+pron,,was,什么,,Was ist sie?
+pron,,sie,她,,Sie ist Lehrerin.
+n,der,Lehrer,教师,Pl. Lehrer,Er ist Lehrer.
+n,die,Lehrerin,教师(女),Pl. Lehrerinnen,Er ist Lehrer.
+adv,,woher,从哪里,,Woher kommen sie?
+n,das,Berlin,柏林(德国首都),,Ich komme aus Berlin.
+prep,,zu,到……去,,Ich gehe zu Peter.
+n,der,Unterricht,课,,Der Unterricht beginnt um acht.
+conj,,also,因此,,Also tschüs!
+adv,,tschüs,再见,,Also tschüs!
+prep,,bis,直至,,Bis gleich!
+adv,,morgen,明天,,Bis morgen!
+n,der,Vorname,名字,Pl. Vornamen,Das ist mein Vorname.
+n,der,Familienname,姓、姓名,Pl. Familiennamen,Wie ist Ihr Familienname?
+n,das,Griechenland,希腊,,Griechenland ist ein altes Land.
+n,das,Wiedersehen,再见,,Auf Wiedersehen!
+n,die,Physik,物理,,Ich studiere Physik.
+v,,begrüßen,欢迎、向……问候,,Frau Lu begrüßt die Studenten.
+v,,verabschieden,告别、告辞,,Dann verabschieden sie sich.
+n,der,Abend,傍晚、晚上、晚会,Pl. Abende,Guten Abend!
+n,die,Nacht,夜里,Pl. Nächte,Gute Nacht!
+adv,,dann,然后、那么,,Bis dann!
+adv,,gleich,马上、不一会儿,,Bis gleich!

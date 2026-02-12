@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deutsche Helfer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- 侧边栏开关 -->
+    <div id="sidebar-handle" onclick="toggleSidebar()">📂 题库</div>
+
+    <div class="container">
+        <h1>Deutsche Helfer</h1>
+
+        <p class="subtitle">
+            von ÖßRen
+            <img src="icon.ico" alt="Icon" class="subtitle-icon">
+        </p>
+
+        <div class="status-bar">
+            <span id="word-count">打开题库选择范围并加载 👉</span>
+        </div>
+
+        <div class="mode-selector">
+            <button onclick="changeMode('spelling')" id="btn-mode-spelling" class="active">
+                ✍️ 拼写 (Spelling)
+            </button>
+
+            <button onclick="changeMode('plural')" id="btn-mode-plural">
+                🔢 复数 (Plural)
+            </button>
+
+            <button onclick="changeMode('case')" id="btn-mode-case">
+                ⚖️ 格位 (Kasus)
+            </button>
+        </div>
+
+        <div class="card">
+
+            <!-- 工具栏：收藏 + 斩 -->
+            <div class="top-toolbar">
+                <button id="btn-fav" onclick="toggleFav()">⭐ 收藏</button>
+                <button id="btn-ignore" onclick="toggleIgnore()">🗑️ 斩</button>
+            </div>
+
+            <div class="question-area">
+                <div id="q-unit" class="unit-tag">Unit</div>
+                <div id="q-main"></div>
+                <div id="q-sub"></div>
+                <div id="q-tag" class="type-tag"></div>
+            </div>
+
+            <div class="answer-area">
+                <div id="ui-gender-btns" class="gender-row" style="display:none;">
+                    <button class="g-btn" onclick="checkGender('der')">Der</button>
+                    <button class="g-btn" onclick="checkGender('die')">Die</button>
+                    <button class="g-btn" onclick="checkGender('das')">Das</button>
+                </div>
+                <div id="ui-plural-box"
+                    style="display:none; flex-direction:column; gap:10px; width:100%; margin:0 auto 15px;">
+                    <div style="display:flex; gap:10px;">
+                        <input id="input-singular" class="dual-input" placeholder="单数 (Singular)" autocomplete="off">
+                        <input id="input-plural" class="dual-input" placeholder="复数 (Plural)" autocomplete="off">
+                    </div>
+                    <button id="btn-submit-plural" onclick="submitPlural()"
+                        style="width:100%; padding:12px; background:#28a745; color:white; border:none; border-radius:8px; cursor:pointer; font-size:16px;">提交
+                        (Prüfen)</button>
+                </div>
+                <div id="ui-input-box" style="display:none;">
+                    <input type="text" id="input-full" placeholder="输入答案..." autocomplete="off">
+                    <div class="special-chars">
+                        <button onclick="addChar('ä')">ä</button>
+                        <button onclick="addChar('ö')">ö</button>
+                        <button onclick="addChar('ü')">ü</button>
+                        <button onclick="addChar('ß')">ß</button>
+                    </div>
+                </div>
+                <div id="ui-case-selector"
+                    style="display:none; gap:8px; flex-wrap:wrap; justify-content:center; margin-top:15px; margin-bottom:15px;">
+                    <button class="g-btn" onclick="submitCase('N')"
+                        style="padding:10px; font-size:16px; flex:1; min-width:80px; background:#f1f3f5; color:#495057;">
+                        [1] + Nom (1格)
+                    </button>
+
+                    <button class="g-btn" onclick="submitCase('D')"
+                        style="padding:10px; font-size:16px; flex:1; min-width:80px; background:#fff0f6; border-color:#fcc2d7; color:#c02b5e;">
+                        [2] + Dat (3格)
+                    </button>
+
+                    <button class="g-btn" onclick="submitCase('A')"
+                        style="padding:10px; font-size:16px; flex:1; min-width:80px; background:#e7f5ff; border-color:#a5d8ff; color:#1c7ed6;">
+                        [3] + Akk (4格)
+                    </button>
+
+                    <button class="g-btn" onclick="submitCase('DA')"
+                        style="padding:10px; font-size:16px; flex:1; min-width:80px; background:#f3f0ff; border-color:#d0bfff; color:#5f3dc4;">
+                        [4] + D + A (双宾)
+                    </button>
+
+                    <button class="g-btn" onclick="submitCase('PREP')"
+                        style="padding:10px; font-size:16px; flex:1; min-width:80px; background:#fff9db; border-color:#ffec99; color:#e67700;">
+                        [5] + 介词
+                    </button>
+                </div>
+            </div>
+
+            <div id="result-msg" class="result"></div>
+
+            <div id="info-area" class="info-box" style="display:none;">
+                <div id="info-forms"></div>
+                <div id="info-example"></div>
+            </div>
+
+            <div class="control-area">
+                <button id="btn-submit" onclick="submitSpelling()">提交 (Enter)</button>
+                <button id="btn-next" onclick="nextQuestion()" style="display:none;">下一题 ➡ (Enter)</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 侧边栏 -->
+    <div id="sidebar-overlay" onclick="toggleSidebar()"></div>
+    <div id="sidebar">
+        <div class="sidebar-header">
+            <h2>📚 题库目录</h2>
+            <button class="close-btn" onclick="toggleSidebar()">×</button>
+        </div>
+
+        <div class="sidebar-section" style="flex-shrink: 0;">
+            <h3>出题顺序</h3>
+            <div class="radio-group">
+                <label><input type="radio" name="order" value="random" checked onchange="changeOrder()"> 🎲 随机乱序</label>
+                <label><input type="radio" name="order" value="sequential" onchange="changeOrder()"> 📝 词表顺序</label>
+            </div>
+        </div>
+
+        <div class="sidebar-section" style="margin-bottom: 5px; flex-shrink: 0;">
+            <h3>单元选择 <button class="small-btn" onclick="loadSelectedUnits()">🔄 加载/刷新</button></h3>
+
+            <div id="sidebar-stats" style="font-size:12px; color:#888; margin-top:5px;">未加载数据</div>
+        </div>
+
+        <div id="bookshelf" class="checklist">
+        </div>
+
+        <div class="sidebar-footer">
+        </div>
+    </div>
+    <div id="modal-overlay" class="trash-overlay" style="z-index: 9999;">
+        <div class="trash-box" style="height: auto; min-height: 200px; max-width: 400px; padding-bottom: 20px;">
+            <div class="trash-header" style="justify-content: center;">
+                <h2 id="modal-title">🎉 完成</h2>
+            </div>
+
+            <div id="modal-msg"
+                style="padding: 30px 20px; text-align: center; font-size: 18px; color: #333; line-height: 1.5;">
+            </div>
+
+            <div style="display: flex; justify-content: center; gap: 15px;">
+                <button id="modal-btn-secondary" onclick="onModalSecondaryClick()" class="reset-btn"
+                    style="background: #f8f9fa; color: #666; border: 1px solid #ddd; width: 120px; padding: 10px; font-size: 16px; display:none;">
+                    放弃
+                </button>
+
+                <button id="modal-btn-primary" onclick="onModalPrimaryClick()" class="reset-btn"
+                    style="background: #28a745; color: white; border: none; width: 120px; padding: 10px; font-size: 16px;">
+                    确定
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
